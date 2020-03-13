@@ -1,6 +1,6 @@
 //This class checking Paremeterizion with constructor
 
-package parametrizetest;
+package com.junit.learning.parametrizetest;
 
 import static org.junit.Assert.assertEquals;
 

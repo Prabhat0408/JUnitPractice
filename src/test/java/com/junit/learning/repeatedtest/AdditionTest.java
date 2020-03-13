@@ -1,6 +1,6 @@
 //repeat test with repeated annotation
 
-package repeatedtest;
+package com.junit.learning.repeatedtest;
 
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.AfterEach;

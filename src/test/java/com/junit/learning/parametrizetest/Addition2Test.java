@@ -1,6 +1,6 @@
 //This class is  exaample of Parameterization without constructor @parameters
 
-package parametrizetest;
+package com.junit.learning.parametrizetest;
 
 import static org.junit.Assert.assertEquals;
 
